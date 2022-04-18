@@ -1,3 +1,12 @@
 Hello Kaushik hengediya
+<<<<<<< HEAD
+
+I recently caught hold of an observation sheet and found out that 
+I dont like idly and upma
+I have been eating idly and upma all these years,
+without knowing about the observation sheet.
+kaushik likes ice cream
+=======
 test PR feature in github
 kaushik likes ice cream
+>>>>>>> e246a348bff6209778d6f65b6bfeb1355c37303d
